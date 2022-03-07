@@ -1,3 +1,27 @@
+## About this project
+- This project is following the [Static Blog With Next.js and Markdown](https://youtu.be/MrjeefD8sac) tutorial by Traversy Media.
+- By Steven Bash
+---
+---
+## Note
+Success! Created next-markdown-blog at C:\Users\S.Bash\next-markdown-blog
+Inside that directory, you can run several commands:
+
+  `npm run dev`
+   - Starts the development server.
+
+  `npm run build`
+   - Builds the app for production.
+
+  `npm start`
+   - Runs the built app in production mode.
+
+We suggest that you begin by typing:
+
+ - `npm run dev`
+
+---
+---
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
