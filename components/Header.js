@@ -7,6 +7,7 @@ export default function Header() {
                 <Link href='/' passHref>
                     <h2>Dev Blog</h2>
                 </Link>
+                <Link href='/about'><a className='btn btn-back'>About</a></Link>
             </div>
         </header>
     )
